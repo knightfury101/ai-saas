@@ -12,19 +12,19 @@ const testimonials = [
     {
         name: "Brian Chesky",
         avatar: "B",
-        title: "Full stack developer",
+        title: "CEO of Airbnb",
         description: "AI-powered chatbots improved customer support, raising satisfaction rates."
     },
     {
         name: "Tim Cook",
         avatar: "T",
-        title: "Full stack developer",
+        title: "CEO of Apple",
         description: "This software saved me hours of work, creating stunning visuals and high-quality content."
     },
     {
         name: "Reed Hastings",
         avatar: "R",
-        title: "Full stack developer",
+        title: "CEO of Netflix",
         description: "This service by Aditya Singh Rajput accelerated software development, delivering projects ahead of schedule."
     },
 ]
